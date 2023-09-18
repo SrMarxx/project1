@@ -7,6 +7,3 @@ edition = "2021"
 
 [dependencies]
 rocket = "0.4.11"
-
-[toolchain]
-channel = "nightly"
